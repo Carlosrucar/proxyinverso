@@ -125,16 +125,17 @@ location / {
 
 Para verificar el funcionamiento:
 1. Acceder a http://192.168.57.10
+![Comprobación](img/prueba1.jpg)
 2. Verificar logs en ambos servidores
 3. Comprobar cabeceras HTTP en las herramientas de desarrollo del navegador
 4. Verificar redirección funcionando correctamente
 
 ## Capturas
 
-- [ ] Logs del proxy
-- [ ] Logs del servidor web
-- [ ] Cabeceras de respuesta mostrando X-friend
-- [ ] Cabeceras de respuesta mostrando Host
+![Logs del proxy](img/prueba2.jpg)
+![Logs del web](img/prueba3.jpg)
+![Cabeceras x-friend](img/prueba5.jpg)
+![Cabeceras Host](img/comprobacion5.jpg)
 
 ## Notas adicionales
 
