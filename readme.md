@@ -131,10 +131,13 @@ Para verificar el funcionamiento:
 4. Verificar redirección funcionando correctamente
 
 ## Capturas
-
+1. Logs del proxy
 ![Logs del proxy](img/prueba2.jpg)
+2. Logs del web
 ![Logs del web](img/prueba3.jpg)
+3. Cabeceras x-friend
 ![Cabeceras x-friend](img/prueba5.jpg)
+4. Cabeceras Host desde el web
 ![Cabeceras Host](img/comprobacion5.jpg)
 
 ## Notas adicionales
